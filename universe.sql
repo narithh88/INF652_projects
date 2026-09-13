@@ -291,27 +291,27 @@ INSERT INTO public.galaxy VALUES (6, 'galaxy5', 'Lenticular', false, 500000000, 
 -- Data for Name: moon; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.moon VALUES (1, 'moo1', 3, 3474, true, false, 27.3, 1610);
-INSERT INTO public.moon VALUES (2, 'moo2', 4, 22, false, false, 0.32, 1877);
-INSERT INTO public.moon VALUES (3, 'moo3', 4, 12, false, false, 1.26, 1877);
-INSERT INTO public.moon VALUES (4, 'moo4', 5, 3643, true, false, 1.77, 1610);
-INSERT INTO public.moon VALUES (5, 'moo5', 5, 3122, true, false, 3.55, 1610);
-INSERT INTO public.moon VALUES (6, 'moo6', 5, 5268, true, false, 7.15, 1610);
-INSERT INTO public.moon VALUES (7, 'moo7', 5, 4821, true, false, 16.69, 1610);
-INSERT INTO public.moon VALUES (8, 'moo8', 6, 5150, true, true, 15.95, 1655);
-INSERT INTO public.moon VALUES (9, 'moo9', 6, 504, true, false, 1.37, 1789);
-INSERT INTO public.moon VALUES (10, 'moo10', 6, 396, true, false, 0.94, 1789);
-INSERT INTO public.moon VALUES (11, 'moo11', 6, 1527, true, false, 4.52, 1672);
-INSERT INTO public.moon VALUES (12, 'moo12', 6, 1469, true, false, 79.32, 1671);
-INSERT INTO public.moon VALUES (13, 'moo13', 7, 1578, true, false, 8.71, 1787);
-INSERT INTO public.moon VALUES (14, 'moo14', 7, 1523, true, false, 13.46, 1787);
-INSERT INTO public.moon VALUES (15, 'moo15', 7, 471, true, false, 1.41, 1948);
-INSERT INTO public.moon VALUES (16, 'moo16', 7, 1158, true, false, 2.52, 1851);
-INSERT INTO public.moon VALUES (17, 'moo17', 7, 1169, true, false, 4.14, 1851);
-INSERT INTO public.moon VALUES (18, 'moo18', 8, 2707, true, true, 5.88, 1846);
-INSERT INTO public.moon VALUES (19, 'moo19', 8, 340, false, false, 360.13, 1949);
-INSERT INTO public.moon VALUES (20, 'moo20', 8, 420, false, false, 1.12, 1989);
-INSERT INTO public.moon VALUES (21, 'moo21', 8, 66, false, false, 0.29, 1989);
+INSERT INTO public.moon VALUES (1, 'moon1', 3, 3474, true, false, 27.3, 1610);
+INSERT INTO public.moon VALUES (2, 'moon2', 4, 22, false, false, 0.32, 1877);
+INSERT INTO public.moon VALUES (3, 'moon3', 4, 12, false, false, 1.26, 1877);
+INSERT INTO public.moon VALUES (4, 'moon4', 5, 3643, true, false, 1.77, 1610);
+INSERT INTO public.moon VALUES (5, 'moon5', 5, 3122, true, false, 3.55, 1610);
+INSERT INTO public.moon VALUES (6, 'moon6', 5, 5268, true, false, 7.15, 1610);
+INSERT INTO public.moon VALUES (7, 'moon7', 5, 4821, true, false, 16.69, 1610);
+INSERT INTO public.moon VALUES (8, 'moon8', 6, 5150, true, true, 15.95, 1655);
+INSERT INTO public.moon VALUES (9, 'moon9', 6, 504, true, false, 1.37, 1789);
+INSERT INTO public.moon VALUES (10, 'moon10', 6, 396, true, false, 0.94, 1789);
+INSERT INTO public.moon VALUES (11, 'moon11', 6, 1527, true, false, 4.52, 1672);
+INSERT INTO public.moon VALUES (12, 'moon12', 6, 1469, true, false, 79.32, 1671);
+INSERT INTO public.moon VALUES (13, 'moon13', 7, 1578, true, false, 8.71, 1787);
+INSERT INTO public.moon VALUES (14, 'moon14', 7, 1523, true, false, 13.46, 1787);
+INSERT INTO public.moon VALUES (15, 'moon15', 7, 471, true, false, 1.41, 1948);
+INSERT INTO public.moon VALUES (16, 'moon16', 7, 1158, true, false, 2.52, 1851);
+INSERT INTO public.moon VALUES (17, 'moon17', 7, 1169, true, false, 4.14, 1851);
+INSERT INTO public.moon VALUES (18, 'moon18', 8, 2707, true, true, 5.88, 1846);
+INSERT INTO public.moon VALUES (19, 'moon19', 8, 340, false, false, 360.13, 1949);
+INSERT INTO public.moon VALUES (20, 'moon20', 8, 420, false, false, 1.12, 1989);
+INSERT INTO public.moon VALUES (21, 'moon21', 8, 66, false, false, 0.29, 1989);
 
 
 --
