@@ -6,3 +6,4 @@ Repository to submit INF652 projects.
 
 1. **universe**
 2. **worldcup**
+3. **salon**
